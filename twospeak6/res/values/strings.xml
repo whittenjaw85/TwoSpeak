@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TwoSpeak2!</string>
+    <string name="app_name">TwoSpeak</string>
+    <string name="recview_title">recview</string>
+    <string name="recview_message">Say Something</string>
+	<string name="tutorial_label">Instructions</string>
+	<string name="about_label">About Us</string>
+	<string name="record_label">Record</string>
+	<string name="tutorial_text_1">Upon opening TwoSpeak, you will notice that there is a single button 
+	with a play symbol. TwoSpeak
+	can have a single sound playback interface much like a simple parroting device or it can have multiple 
+	buttons	for multiple preprogrammed responses. This setting can be changed by pressing the menu button 
+	on your phone and then selecting the settings option.</string>
+	
+	<string name="tutorial_text_2">For this tutorial, select the number of
+	buttons option and press the number 3. Next, press back to return to the
+	main application.</string>
+	
+	<string name="tutorial_text_3">Select the button you want to record by pressing the button for playback
+	or by swiping outside the boundaries from the opposing side towards the button. For instance, to select
+	the top right button start at the lower left corner and swipe diagonally to the upper right corner. You
+	should see a record icon appear on the selected button.</string>
+	
+	<string name="tutorial_text_4">To record, touch the left pad twice, swipe the optical sensor left, or
+	press the menu key on your phone to access the record option. As soon as the recording dialog indicates to speak, record your ten
+	second message. You may stop the recording at any time by pressing the phone back key, by pressing
+	right on your keypad, or by swiping right with your optical device.</string>
+	
+	<string name="tutorial_text_5">Playback any recording by simply touching the button you want to play.</string>
+	
+	<string name="about_us_text">We are part of MTE Mercy, a company that seeks to provide
+	affordable tools for enabling the world around us. If you\'re interested in learning more
+	about us, go to http://www.mtemercy.com/  </string>
+	<string name="settings_label">Settings</string>
+	<string name="camera_label">Set Image</string>
+</resources>

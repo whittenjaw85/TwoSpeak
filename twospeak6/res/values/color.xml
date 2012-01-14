@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="red0">#FF0000</color>
+<color name="darkred0">#993300</color>
+<color name="palered0">#CC0033</color>
+
+<color name="green0">#00FF00</color>
+<color name="darkgreen0">#009900</color>
+<color name="palegreen0">#00CC66</color>
+
+<color name="blue0">#0000FF</color>
+<color name="darkblue0">#000066</color>
+<color name="paleblue0">#0099FF</color>
+
+<color name="gold0">#FFFF66</color>
+<color name="darkgold0">#CC9933</color>
+<color name="palegold0">#FFFF99</color>
+</resources>

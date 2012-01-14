@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/tutorial"
+		android:icon="@android:drawable/ic_menu_info_details"
+		android:title="@string/tutorial_label" />
+<item android:id="@+id/aboutus"
+		android:icon="@android:drawable/btn_star"
+		android:title="@string/about_label" />
+<item android:id="@+id/settings"
+		android:icon="@android:drawable/ic_menu_preferences"
+		android:title="@string/settings_label" />
+<item android:id="@+id/setimage"
+		android:icon="@android:drawable/ic_menu_camera"
+		android:title="@string/camera_label" />
+<item android:id="@+id/record"
+		android:icon="@drawable/ic_record"
+		android:title="@string/record_label" />
+</menu>

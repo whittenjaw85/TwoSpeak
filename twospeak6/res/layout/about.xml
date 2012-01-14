@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dip"
+>
+
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="fill_parent" android:padding="10dip" android:orientation="vertical" android:layout_height="fill_parent"><TextView android:textSize="18dip" android:id="@+id/TextView01" android:text="Instructions" android:layout_height="wrap_content" android:layout_width="fill_parent"></TextView>
+<TextView android:textSize="16dip" android:id="@+id/TextView02" android:text="@string/tutorial_text_1" android:layout_height="wrap_content" android:layout_width="fill_parent"></TextView>
+<ImageView 
+	android:src="@drawable/select" 
+	android:id="@+id/ImageView01" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:padding="20dip"
+	android:gravity="center" />
+
+<TextView 
+	android:textSize="16dip" 
+	android:id="@+id/TextView03" 
+	android:text="@string/tutorial_text_2" 
+	android:layout_height="wrap_content" 
+	android:layout_width="fill_parent">
+</TextView>
+<ImageView 
+	android:src="@drawable/buttons" 
+	android:id="@+id/ImageView01" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:padding="20dip"
+	android:gravity="center" />
+<TextView android:textSize="16dip" android:id="@+id/TextView04" android:text="@string/tutorial_text_3" android:layout_height="wrap_content" android:layout_width="fill_parent"></TextView>
+<ImageView 
+	android:src="@drawable/selrec" 
+	android:id="@+id/ImageView01" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:padding="20dip"
+	android:gravity="center" />
+<TextView android:textSize="16dip" android:id="@+id/TextView05" android:text="@string/tutorial_text_4" android:layout_height="wrap_content" android:layout_width="fill_parent"></TextView>
+<ImageView 
+	android:src="@drawable/ic_record" 
+	android:id="@+id/ImageView01" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:padding="20dip"
+	android:gravity="center" />
+<ImageView 
+	android:src="@drawable/record" 
+	android:id="@+id/ImageView01" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:padding="20dip"
+	android:gravity="center" />
+<TextView android:textSize="16dip" android:id="@+id/TextView05" android:text="@string/tutorial_text_5" android:layout_height="wrap_content" android:layout_width="fill_parent"></TextView>
+</LinearLayout>
+</ScrollView>

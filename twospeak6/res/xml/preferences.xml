@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding="utf-8" ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<ListPreference android:title="Number of Buttons"
+					android:key="numbuttonpref"
+					android:entries="@array/listDisplayWord"
+ 					android:entryValues="@array/listReturnValue"
+	>
+		
+	</ListPreference>
+</PreferenceScreen>
